@@ -1,0 +1,37 @@
+---
+id: 4756629
+name: Evilswarm Kerykeion
+type: Effect Monster
+frameType: effect
+desc: |-
+  You can only use each effect of "Evilswarm Kerykeion" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 "lswarm" monster for 1 less Tribute.
+  You can banish 1 "lswarm" monster from your Graveyard, then target 1 "lswarm" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.
+  ● This turn: You can activate this effect; Normal Summon 1 "lswarm" monster.
+atk: 1600
+def: 1550
+level: 4
+race: Spellcaster
+attribute: DARK
+archetype: Lswarm
+card_sets:
+- set_name: 2014 Mega-Tin Mega Pack
+  set_code: MP14-EN061
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '2.09'
+- set_name: Lord of the Tachyon Galaxy
+  set_code: LTGY-EN094
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '2.6'
+card_images:
+- id: 4756629
+  image_url: https://images.ygoprodeck.com/images/cards/4756629.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/4756629.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/4756629.jpg
+card_prices:
+- cardmarket_price: '1.59'
+  tcgplayer_price: '0.88'
+  ebay_price: '1.95'
+  amazon_price: '1.68'
+  coolstuffinc_price: '1.99'
